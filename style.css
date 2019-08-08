@@ -1,0 +1,58 @@
+.bg-blue{
+  background: rgb(63, 190, 212);
+  color: white;
+  padding: 3%;
+}
+.bg-green{
+  background: rgb(63, 190, 212);
+  color: white;
+  align-items: center;
+}
+
+.barrier{
+  color: white;
+  height: 3px;
+  background-color: white;
+}
+.card-white {
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+ 
+}
+
+.text-left{
+  text-align: left;
+}
+.cog {
+  border: 0px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 100px;
+}
+.pics{
+ height: 100%; 
+ width: 100%; 
+
+}
+.mail{
+  width: 75px;
+}
+.text-right{
+ text-align: end
+}
+.newsletter{
+  border-right: 3px solid white;
+  
+  height: 50px;
+}
+.bot-right{
+  bottom: 0px;
+  right: 0px;
+}
+.submit{
+      margin-left: -20px;
+    margin-top: -5px;
+}
